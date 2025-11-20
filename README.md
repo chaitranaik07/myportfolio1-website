@@ -48,6 +48,6 @@ git clone https://github.com/chaitra-naik-07/chaitra-naik.git
 ## ✉️ Contact
 Feel free to connect with me for opportunities, collaborations, or just to chat!
 
-* **LinkedIn**: https://www.linkedin.com/in/adarsh-patil0721/
-* **Email**: adaepublic01@gmail.com
-* **GitHub**: https://github.com/Adarsh-patil-07
+* **LinkedIn**: https://www.linkedin.com/in/chaitra-naik0721/
+* **Email**: naikchaitra2005@gmail.com
+* **GitHub**: https://github.com/chaitra-naik-07
